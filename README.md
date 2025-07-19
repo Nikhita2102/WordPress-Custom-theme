@@ -5,6 +5,7 @@ Welcome. WordPress is a very special project to me. Every developer and contribu
 System Requirements -
 
 PHP version 7.2.24 or greater.
+
 MySQL version 5.5.5 or greater.
 
 
